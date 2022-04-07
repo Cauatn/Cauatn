@@ -1,4 +1,4 @@
-## Eae 👋 Eu sou Cauã Tavarese Bem-Vindo ao meu perfil no GitHub
+## Oi 👋 Eu sou Cauã Tavares
 
   Sou estudante de Engenharia de Computação pela Univasf 🔭, em recesso, que atualmente estou estudando/interessado principalmente na parte de desenvolvimento Front-End,  tentando aprender um pouco de Back também 🌱.
   
