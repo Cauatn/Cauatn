@@ -2,6 +2,7 @@
 
   Sou estudante de Engenharia de Computação pela Univasf 🔭, em recesso, que atualmente estou estudando/interessado principalmente na parte de desenvolvimento Front-End,  tentando aprender um pouco de Back também 🌱.
   
+ <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
  ## 💬 Fale Comigo
  
  <div>
@@ -22,6 +23,4 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
