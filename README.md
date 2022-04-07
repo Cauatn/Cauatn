@@ -2,7 +2,7 @@
 
   Sou estudante de Engenharia de Computação pela Univasf 🔭, em recesso, que atualmente estou estudando/interessado principalmente na parte de desenvolvimento Front-End,  tentando aprender um pouco de Back também 🌱.
   
- ### 💬 Fale Comigo !
+ ### 💬 Fale Comigo
  
  <div>
   
@@ -13,7 +13,7 @@
 </div>
 
   
-### 💻 Principais linguagens
+### 💻 Principais linguagens e ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
