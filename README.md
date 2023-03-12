@@ -1,6 +1,6 @@
 ## Oi 👋 Eu sou Cauã Tavares
 
-  Sou estudante de Engenharia de Computação pela Univasf 🔭, em recesso, que atualmente estou estudando/interessado principalmente na parte de desenvolvimento Front-End,  tentando aprender um pouco de Back também 🌱.
+  Sou estudante de Engenharia de Computação pela Univasf 🔭, no 3° Periodo ! , que atualmente estou estudando/interessado principalmente na parte de desenvolvimento Front-End,  tentando aprender um pouco de Back também 🌱.
   
  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
  
