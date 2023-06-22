@@ -1,8 +1,13 @@
 ### Olá, sou Cauã Tavares
 
+<p align="center">
+ 
+ ![Pixel Art Gifs](https://github.com/Cauatn/Cauatn/assets/39890456/99d7dab0-586c-4f66-9014-f45454efba22)</p>
+
 ----
 
 Apenas estudante de Engenharia de Computação, interessado em Front-End e em diversas outras áreas na computação.
+Sinta-se livre para visitar os repósitorios e projetos.
  
  ## 💬 Formas de contato
  
