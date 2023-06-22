@@ -1,4 +1,4 @@
-<p align="center" ><h1> Olá, sou Cauã Tavares</h1> </p>
+<p align="center"> Olá, sou Cauã Tavares </p>
 <p align="center">
   <img src="https://github.com/Cauatn/Cauatn/assets/39890456/99d7dab0-586c-4f66-9014-f45454efba22" alt="animated" /></p>
 
