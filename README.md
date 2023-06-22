@@ -2,9 +2,9 @@
 
 ----
 
-Apenas estudante de Engenharia de Computação, interessado em Front-End e em diversas outras áreas na computação !
+Apenas estudante de Engenharia de Computação, interessado em Front-End e em diversas outras áreas na computação.
  
- ## 💬 Contato
+ ## 💬 Formas de contato
  
  <div>
   
@@ -15,7 +15,7 @@ Apenas estudante de Engenharia de Computação, interessado em Front-End e em di
 </div>
 
   
-## 💻 Principais linguagens e ferramentas
+## 💻 Linguagens e ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
