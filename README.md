@@ -2,7 +2,7 @@
 
 ----
 
-estudante de Engenharia de Computação, interessado em Front-End 
+Apenas estudante de Engenharia de Computação, interessado em Front-End e em diversas outras áreas na computação !
  
  ## 💬 Fale Comigo
  
