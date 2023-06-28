@@ -3,7 +3,7 @@
   <img src="https://github.com/Cauatn/Cauatn/assets/39890456/99d7dab0-586c-4f66-9014-f45454efba22" alt="animated" />
 </p>
 <p align="center"> Apenas estudante de Engenharia de Computação, interessado em Front-End e em diversas outras áreas na computação.</p>
-<p align="center" >Sinta-se livre para visitar meus repósitorios e projetos.</p>
+<p align="center" >Sinta-se livre para visitar os repósitorios e projetos.</p>
 
  ## 💬 Formas de contato
  <div>
