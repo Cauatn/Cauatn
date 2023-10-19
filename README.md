@@ -1,5 +1,4 @@
 <h1 align="center">Oi, sou Cauã Tavares</h1>
-<p align="center"> Um estudante de Engenharia de Computação, tentando aprender alguma coisa</p>
 <p align="center" >Sinta-se livre para visitar os repósitorios e projetos.</p>
 
  ## 💬 Formas de contato
