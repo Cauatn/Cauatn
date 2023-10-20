@@ -1,6 +1,6 @@
 <h1 align="center">Oi, sou Cauã Tavares</h1>
 <p align="center" >Sinta-se livre para visitar os repósitorios e projetos.</p>
-
+ 
  ## 💬 Formas de contato
  <div>
  <a href="https://www.linkedin.com/in/cauatn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
